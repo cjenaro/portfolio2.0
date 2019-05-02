@@ -1,0 +1,11 @@
+.name {
+    font-size: 1.5rem;
+}
+
+.sm-img-container {
+    flex-direction: column;
+}
+
+figure {
+    width: 90%;
+}
